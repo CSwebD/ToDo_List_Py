@@ -1,4 +1,4 @@
-# Advanced ToDo List App (Tkinter Desktop App)
+# Advanced ToDo List App v1.02 (Tkinter Desktop App)
 
 A feature-rich Python desktop application to manage your daily tasks efficiently. Built with Tkinter, this app lets you track, complete, and analyze your productivity using real-time charts.
 
