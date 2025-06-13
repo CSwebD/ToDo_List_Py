@@ -29,16 +29,19 @@ A feature-rich Python desktop application to manage your daily tasks efficiently
 ```bash
 git clone https://github.com/CSwebD/todo-app.git
 cd todo-app
+```
 
 ### 2. Install Required Packages
 
 ```bash
 pip install -r requiements.txt
+```
 
 ### 3. Run the program
 
 ```bash
 python todo.py
+```
 
 ### 4. How to run this application as .exe (Window)?
 
@@ -46,11 +49,13 @@ python todo.py
 
 ```bash
 pip install pyinstaller
+```
 
 #### Step 2: Create Executable
 
 ```bash
 python -m PyInstaller --onefile --windowed todo.py
+```
 
 #### Step 3: Change the design of icon (Optional)
 
