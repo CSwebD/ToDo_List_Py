@@ -18,7 +18,7 @@ A feature-rich Python desktop application to manage your daily tasks efficiently
 
 ## Screenshot
 
-<img src="screenshot.png" alt="Screenshot of App" width="600">
+<img src="screenshot.PNG" alt="Screenshot of App" width="600">
 
 ---
 
